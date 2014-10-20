@@ -1,0 +1,4 @@
+highlighter: pygments
+timezone: Europe/London
+exclude: ["Gemfile", "Genfile.lock"]
+
