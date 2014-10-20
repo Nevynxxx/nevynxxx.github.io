@@ -2,3 +2,6 @@ highlighter: pygments
 timezone: Europe/London
 exclude: ["Gemfile", "Genfile.lock"]
 
+name: Nevynsville
+description: Personal Musings of Nevyn McAnferny
+

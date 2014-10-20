@@ -336,6 +336,10 @@ nav ol {
   list-style: none;
   list-style-image: none;
 }
+nav a + a:before{
+    content: " | ";
+    padding: 0 10px;
+}
 
 /* =============================================================================
    Embedded content
@@ -685,7 +689,7 @@ hr {
   outline: none;
   height: 3px;
   background: transparent url("../images/hr.gif") center center repeat-x;
-  margin: 0 0 20px;
+  margin: 0 0 0 0;
 }
 
 dt {
